@@ -11,7 +11,7 @@
    - **Admin Panel**: Admins can manage bookings, users, and view data.
    - **Responsive Design**: Fully responsive UI for all screen sizes.
 
-Project1/
+    Project1/
       ├── admin-panel/        # व्यवस्थापक पैनल से संबंधित फाइलें
       ├── auth/               # प्रमाणीकरण से संबंधित फाइलें
       ├── config/             # कॉन्फ़िगरेशन फाइलें
@@ -77,7 +77,7 @@ This project is licensed under the MIT License.
       Developer: [Utsav Mishra]
       Email: [utsavmishraa005@gmail.com]
       GitHub: [https://github.com/bhaktofmahakal]
-      linkedIn: [ http://linkedin.com/in/utsav-mishra-012a2a2aa]
+      linkedIn: [http://linkedin.com/in/utsav-mishra-012a2a2aa]
 
    
 
