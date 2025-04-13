@@ -1,0 +1,35 @@
+# Auto-detect text files and normalize line endings
+* text=auto
+
+# Frontend
+*.html text
+*.css text
+*.js text
+*.json text
+*.svg text
+
+# Backend
+*.php text
+*.sql text
+*.env text
+*.ini text
+*.xml text
+*.yml text
+*.yaml text
+
+# Markdown, Docs
+*.md text
+*.txt text
+
+# Binary files (no diff)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
+
+# Ignore vendored/docs from GitHub language stats
+assets/* linguist-vendored
+vendor/* linguist-vendored
+docs/* linguist-documentation
