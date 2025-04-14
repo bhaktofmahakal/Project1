@@ -77,7 +77,7 @@ This project is licensed under the MIT License.
       Developer: [Utsav Mishra]
       Email: [utsavmishraa005@gmail.com]
       GitHub: [https://github.com/bhaktofmahakal]
-      linkedIn: [http://linkedin.com/in/utsav-mishra-012a2a2aa]
+      linkedIn: [http://linkedin.com/in/utsav-mishra1]
 
    
 
