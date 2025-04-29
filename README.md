@@ -36,6 +36,35 @@
       - **Frontend**: HTML, CSS, SCSS, JavaScript
       - **Backend**: PHP
       - **Database**: MySQL *(assumed from structure)*
+## 📸 Screenshots
+
+### 🏠 Home Page  
+![Home](image/home.png)
+
+### 🔐 Login Page  
+![Login](image/login.png)
+
+### 📝 Register Page  
+![Register](image/register.png)
+
+### ℹ️ About Page  
+![About](image/about.png)
+
+## 📅 Book a Table
+![Booking](image/book.png)
+
+### 🛍️ Shop / Products Page  
+![Shop](image/shop.png)
+
+### 🛒 Cart Page  
+![Cart](image/cart.png)
+
+### 🪑 Booking / Reserve Your Seat  
+![Bookings](image/bookings.png)
+
+### 📦 Orders Page  
+![Orders](image/orders.png)
+
 
 ## 🛠️ Getting Started
 
