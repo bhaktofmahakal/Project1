@@ -116,6 +116,8 @@ Place the project folder inside the htdocs/ (XAMPP) directory.
 This project is licensed under the MIT License.
 See the LICENSE file for more information.
 
+---
+
 📬 Contact
 
       For questions or support, feel free to reach out:
