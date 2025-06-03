@@ -1,78 +1,105 @@
-# Project1
+# 🍽️ Project1 - Restaurant Management System
 
-   **Project1** is a web-based application designed to manage restaurant operations such as table bookings, user management, and admin controls. Built with PHP, JavaScript, SCSS, and HTML/CSS, it offers both 
-    user-facing and administrative functionality.
+**Project1** is a full-featured web application built to simplify and manage restaurant operations such as **table booking**, **user management**, and **admin control**. Built using **PHP**, **JavaScript**, **SCSS**, and **HTML/CSS**, it provides a responsive interface for both users and administrators.
+
+![Restaurant](https://img.shields.io/badge/Restaurant-App-ff6f61?style=for-the-badge&logo=codeigniter&logoColor=white)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Built%20with-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Database-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Styling-SCSS/CSS-cc6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img src="https://img.shields.io/badge/JS-Vanilla%20JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
+
+---
+
+## 🧭 Table of Contents
+
+- [🚀 Features](#-features)
+- [📁 Folder Structure](#-folder-structure)
+- [🧰 Tech Stack](#-tech-stack)
+- [📸 Screenshots](#-screenshots)
+- [🛠️ Getting Started](#️-getting-started)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
+- [📬 Contact](#-contact)
+
+---
 
 ## 🚀 Features
 
-   - **User Registration & Login**: Secure authentication system for users.
-   - **Table Booking System**: Users can book tables and view booking information.
-   - **Contact Form**: Users can send messages via the contact page.
-   - **Admin Panel**: Admins can manage bookings, users, and view data.
-   - **Responsive Design**: Fully responsive UI for all screen sizes.
+- 🔐 **User Authentication**: Secure login & registration system
+- 🪑 **Table Booking**: Book a table and manage reservations
+- 📬 **Contact Form**: Users can reach out via messaging form
+- 🧑‍💼 **Admin Panel**: Manage users, bookings, and view analytics
+- 📱 **Responsive Design**: Works seamlessly across devices
 
-    Project1/
-      ├── admin-panel/        
-      ├── auth/              
-      ├── config/             
-      ├── css/                
-      ├── food/               
-      ├── img/              
-      ├── includes/           
-      ├── js/               
-      ├── libs/              
-      ├── scss/              
-      ├── users/             
-      ├── 404.php            
-      ├── about.php          
-      ├── booking.php        
-      ├── booking-table.php  
-      ├── contact.php         
-      ├── service.php        
-      └── README.md           
+---
+
+## 📁 Folder Structure
+
+<details>
+<summary>Click to expand</summary>
+
+```bash
+Project1/
+├── admin-panel/         # Admin dashboard and utilities
+├── auth/                # Login, register, logout scripts
+├── config/              # Configuration and database files
+├── css/                 # Compiled CSS stylesheets
+├── scss/                # SCSS source styles
+├── js/                  # Frontend JS scripts
+├── includes/            # Header, footer, navbar
+├── food/                # Food-related logic
+├── img/                 # Image assets
+├── users/               # User account pages
+├── 404.php              # Custom error page
+├── about.php            # About us
+├── booking.php          # Booking form page
+├── booking-table.php    # Booking handler
+├── contact.php          # Contact form
+├── service.php          # Services offered
+└── README.md            # Project documentation
+
 
 ## 🧰 Tech Stack
+
+
+| Layer    | Technologies                   |
+| -------- | ------------------------------ |
+| Frontend | HTML, CSS, SCSS, JavaScript    |
+| Backend  | PHP (modular architecture)     |
+| Database | MySQL (assumed from structure) |
+| Server   | Apache (XAMPP/WAMP compatible) |
+
       
-      - **Frontend**: HTML, CSS, SCSS, JavaScript
-      - **Backend**: PHP
-      - **Database**: MySQL *(assumed from structure)*
+
 ## 📸 Screenshots
 
-### 🏠 Home Page  
-![Home](image/home.png)
 
-### 🔐 Login Page  
-![Login](image/login.png)
-
-### 📝 Register Page  
-![Register](image/register.png)
-
-### ℹ️ About Page  
-![About](image/about.png)
-
-## 📅 Book a Table
-![Booking](image/book.png)
-
-### 🛍️ Shop / Products Page  
-![Shop](image/shop.png)
-
-### 🛒 Cart Page  
-![Cart](image/cart.png)
-
-### 🪑 Booking / Reserve Your Seat  
-![Bookings](image/bookings.png)
-
-### 📦 Orders Page  
-![Orders](image/orders.png)
+| Page          | Preview                         |
+| ------------- | ------------------------------- |
+| 🏠 Home       | ![Home](image/home.png)         |
+| 🔐 Login      | ![Login](image/login.png)       |
+| 📝 Register   | ![Register](image/register.png) |
+| ℹ️ About      | ![About](image/about.png)       |
+| 📅 Book Table | ![Book](image/book.png)         |
+| 🛍️ Shop      | ![Shop](image/shop.png)         |
+| 🛒 Cart       | ![Cart](image/cart.png)         |
+| 🪑 Bookings   | ![Bookings](image/bookings.png) |
+| 📦 Orders     | ![Orders](image/orders.png)     |
 
 
-## 🛠️ Getting Started
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/bhaktofmahakal/Project1.git
-2.Navigate to the project directory:
-    via command "cd Project1"
+🛠️ Getting Started
+
+🧰 Prerequisites
+
+PHP 7.2+
+
+MySQL / MariaDB
+
+Apache server (XAMPP, WAMP, Laragon)
  
 3. Set up the database:
 
@@ -92,14 +119,28 @@
 Place the project folder inside the htdocs/ (XAMPP) directory.
 
       Access the project at: http://localhost/Project1/
+
 🤝 Contributing
-      Contributions, issues, and feature requests are welcome!
-      free to fork the repository and submit a pull request.
+
+We welcome all contributions!
+
+Fork the repository
+
+Create a new branch
+
+Make your changes
+
+Submit a pull request 🚀
+
+
 
 📄 License
+
 This project is licensed under the MIT License.
+See the LICENSE file for more information.
 
 📬 Contact
+
       For questions or support, feel free to reach out:
 
       Developer: [Utsav Mishra]
