@@ -10,7 +10,6 @@
 ## 🧭 Table of Contents
 
 - [🚀 Features](#-features)
-- [📁 Folder Structure](#-folder-structure)
 - [🧰 Tech Stack](#-tech-stack)
 - [📸 Screenshots](#-screenshots)
 - [🛠️ Getting Started](#️-getting-started)
@@ -30,27 +29,6 @@
 
 ---
 
-## 📁 Folder Structure
-
-
- Project1/
-├── admin-panel/         # Admin dashboard and utilities
-├── auth/                # Login, register, logout scripts
-├── config/              # Configuration and database files
-├── css/                 # Compiled CSS stylesheets
-├── scss/                # SCSS source styles
-├── js/                  # Frontend JS scripts
-├── includes/            # Header, footer, navbar
-├── food/                # Food-related logic
-├── img/                 # Image assets
-├── users/               # User account pages
-├── 404.php              # Custom error page
-├── about.php            # About us
-├── booking.php          # Booking form page
-├── booking-table.php    # Booking handler
-├── contact.php          # Contact form
-├── service.php          # Services offered
-└── README.md            # Project documentation
 
 
 ## 🧰 Tech Stack
@@ -80,7 +58,7 @@
 | 🪑 Bookings   | ![Bookings](image/bookings.png) |
 | 📦 Orders     | ![Orders](image/orders.png)     |
 
-
+---
 
 🛠️ Getting Started
 
@@ -91,6 +69,8 @@ PHP 7.2+
 MySQL / MariaDB
 
 Apache server (XAMPP, WAMP, Laragon)
+
+---
  
 3. Set up the database:
 
@@ -103,6 +83,7 @@ Apache server (XAMPP, WAMP, Laragon)
          define('DB_USERNAME', 'root');
          define('DB_PASSWORD', '');
          define('DB_NAME', 'project1_db');
+
 5.Run the project locally:
 
       Use XAMPP, WAMP, or any local server.
@@ -110,6 +91,8 @@ Apache server (XAMPP, WAMP, Laragon)
 Place the project folder inside the htdocs/ (XAMPP) directory.
 
       Access the project at: http://localhost/Project1/
+
+---
 
 🤝 Contributing
 
@@ -124,6 +107,8 @@ Place the project folder inside the htdocs/ (XAMPP) directory.
 
       Submit a pull request 🚀
 
+
+---
 
 
 📄 License
@@ -140,6 +125,7 @@ See the LICENSE file for more information.
       GitHub: [https://github.com/bhaktofmahakal]
       linkedIn: [http://linkedin.com/in/utsav-mishra1]
  
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20with-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
