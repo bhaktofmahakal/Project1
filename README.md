@@ -4,12 +4,6 @@
 
 ![Restaurant](https://img.shields.io/badge/Restaurant-App-ff6f61?style=for-the-badge&logo=codeigniter&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Built%20with-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Database-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Styling-SCSS/CSS-cc6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/JS-Vanilla%20JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</p>
 
 ---
 
@@ -38,10 +32,6 @@
 
 ## 📁 Folder Structure
 
-<details>
-<summary>Click to expand</summary>
-
-```bash
 Project1/
 ├── admin-panel/         # Admin dashboard and utilities
 ├── auth/                # Login, register, logout scripts
@@ -147,9 +137,13 @@ See the LICENSE file for more information.
       Email: [utsavmishraa005@gmail.com]
       GitHub: [https://github.com/bhaktofmahakal]
       linkedIn: [http://linkedin.com/in/utsav-mishra1]
+ 
 
-   
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Built%20with-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Database-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Styling-SCSS/CSS-cc6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img src="https://img.shields.io/badge/JS-Vanilla%20JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
 
 
