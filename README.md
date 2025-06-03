@@ -32,7 +32,8 @@
 
 ## 📁 Folder Structure
 
-Project1/
+
+ Project1/
 ├── admin-panel/         # Admin dashboard and utilities
 ├── auth/                # Login, register, logout scripts
 ├── config/              # Configuration and database files
@@ -74,7 +75,7 @@ Project1/
 | 📝 Register   | ![Register](image/register.png) |
 | ℹ️ About      | ![About](image/about.png)       |
 | 📅 Book Table | ![Book](image/book.png)         |
-| 🛍️ Shop      | ![Shop](image/shop.png)         |
+| 🛍️ Shop       | ![Shop](image/shop.png)         |
 | 🛒 Cart       | ![Cart](image/cart.png)         |
 | 🪑 Bookings   | ![Bookings](image/bookings.png) |
 | 📦 Orders     | ![Orders](image/orders.png)     |
@@ -112,15 +113,16 @@ Place the project folder inside the htdocs/ (XAMPP) directory.
 
 🤝 Contributing
 
-We welcome all contributions!
 
-Fork the repository
+      We welcome all contributions!
 
-Create a new branch
+      Fork the repository
 
-Make your changes
+      Create a new branch
 
-Submit a pull request 🚀
+      Make your changes
+
+      Submit a pull request 🚀
 
 
 
