@@ -63,15 +63,16 @@
 <details>
 <summary>Click to view</summary>
 
+
 🛠️ Getting Started
 
 🧰 Prerequisites
 
-PHP 7.2+
-
-MySQL / MariaDB
-
-Apache server (XAMPP, WAMP, Laragon)
+      PHP 7.2+
+      
+      MySQL / MariaDB
+      
+      Apache server (XAMPP, WAMP, Laragon)
 
 ---
  
