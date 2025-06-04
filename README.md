@@ -58,6 +58,8 @@
 | 🪑 Bookings   | ![Bookings](image/bookings.png) |
 | 📦 Orders     | ![Orders](image/orders.png)     |
 | 📄 Admin      | ![Admin](image/admin.png)       |
+| 📝Review Form | ![Review](image/review.png)     | 
+
 ---
 
 <details>
