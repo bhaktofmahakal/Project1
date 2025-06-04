@@ -99,6 +99,9 @@ Place the project folder inside the htdocs/ (XAMPP) directory.
 
       Access the project at: http://localhost/Project1/
 
+
+</details>
+
 ---
 
 🤝 Contributing
