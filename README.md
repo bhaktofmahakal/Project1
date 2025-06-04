@@ -60,6 +60,9 @@
 
 ---
 
+<details>
+<summary>Click to view</summary>
+
 🛠️ Getting Started
 
 🧰 Prerequisites
