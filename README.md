@@ -53,11 +53,11 @@
 | 📝 Register   | ![Register](image/register.png) |
 | ℹ️ About      | ![About](image/about.png)       |
 | 📅 Book Table | ![Book](image/book.png)         |
-| 🛍️ Shop       | ![Shop](image/shop.png)         |
+| 🛍️ Service    | ![Service](image/service.png)   |
 | 🛒 Cart       | ![Cart](image/cart.png)         |
 | 🪑 Bookings   | ![Bookings](image/bookings.png) |
 | 📦 Orders     | ![Orders](image/orders.png)     |
-
+| 📄 Admin      | ![Admin](image/admin.png)       |
 ---
 
 <details>
